@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ooo_decorations
+{
+    internal class UserData
+    {
+        public static int Id { get; set; }
+        public static string Surname { get; set; }
+        public static string Name { get; set; }
+        public static string Patronymic { get; set; }
+        public static int RoleID { get; set; }
+    }
+}

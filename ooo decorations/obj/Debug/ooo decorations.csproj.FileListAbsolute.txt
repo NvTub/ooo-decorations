@@ -1,0 +1,33 @@
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\llc decorations\obj\Debug\ooo decorations.csproj.AssemblyReference.cache
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\llc decorations\obj\Debug\ooo decorations.csproj.SuggestedBindingRedirects.cache
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\llc decorations\obj\Debug\llc_decorations.View.CartForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\llc decorations\obj\Debug\llc_decorations.LogInForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\llc decorations\obj\Debug\ooo_decorations.Properties.Resources.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\llc decorations\obj\Debug\llc_decorations.View.Optional.CaptchForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\llc decorations\obj\Debug\llc_decorations.View.Optional.ChangeDeliviryDateForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\llc decorations\obj\Debug\llc_decorations.View.Optional.CouponForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\llc decorations\obj\Debug\llc_decorations.View.Optional.OrderInfoForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\llc decorations\obj\Debug\llc_decorations.View.Optional.ProductAddForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\llc decorations\obj\Debug\llc_decorations.View.OrdersForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\llc decorations\obj\Debug\llc_decorations.View.ProductListForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\llc decorations\obj\Debug\ooo decorations.csproj.GenerateResource.cache
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\llc decorations\obj\Debug\ooo decorations.csproj.CoreCompileInputs.cache
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\obj\Debug\ooo decorations.csproj.AssemblyReference.cache
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\obj\Debug\ooo decorations.csproj.SuggestedBindingRedirects.cache
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\obj\Debug\ooo_decorations.Properties.Resources.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\obj\Debug\ooo decorations.csproj.GenerateResource.cache
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\obj\Debug\ooo decorations.csproj.CoreCompileInputs.cache
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\bin\Debug\ooo decorations.exe.config
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\bin\Debug\ooo decorations.exe
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\bin\Debug\ooo decorations.pdb
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\obj\Debug\ooo_decorations.View.CartForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\obj\Debug\ooo_decorations.LogInForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\obj\Debug\ooo_decorations.View.Optional.CaptchForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\obj\Debug\ooo_decorations.View.Optional.ChangeDeliviryDateForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\obj\Debug\ooo_decorations.View.Optional.CouponForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\obj\Debug\ooo_decorations.View.Optional.OrderInfoForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\obj\Debug\ooo_decorations.View.Optional.ProductAddForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\obj\Debug\ooo_decorations.View.OrdersForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\obj\Debug\ooo_decorations.View.ProductListForm.resources
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\obj\Debug\ooo decorations.exe
+C:\Users\kitch\Downloads\матвеева\шл\Новая папка\ooo decorations\obj\Debug\ooo decorations.pdb
